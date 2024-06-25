@@ -11,5 +11,5 @@ This project demonstrates real-time image compression using Singular Value Decom
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/image-compression-svd.git
-   cd image-compression-svd
+   git clone https://github.com/zanemilo/SVD_Image_Compression
+   cd SVD_Image_Compression
