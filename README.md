@@ -8,8 +8,3 @@ This project demonstrates real-time image compression using Singular Value Decom
 - Adjust the compression ratio using a slider.
 - Semi Real-time update and display of the compressed image.
 
-## Installation
-
-1. Clone the repository:
-   git clone https://github.com/zanemilo/SVD_Image_Compression
-   cd SVD_Image_Compression
