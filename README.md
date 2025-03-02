@@ -16,18 +16,18 @@ The algorithm applies Singular Value Decomposition (SVD) to compress images by r
 ## 🔧 Installation & Setup
 
     Clone the Repository:
-
+```bash
 git clone https://github.com/zanemilo/SVD_Image_Compression
 cd SVD_Image_Compression
-
+```
 Install Dependencies:
 
 pip install numpy opencv-python pillow
 
 Run the Application:
-
+```bash
     python main.py
-
+```
 ## 📌 Usage
 
     Launch the application (python main.py).
